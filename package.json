@@ -14,5 +14,23 @@
     "lodash": "^4.16.2",
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
-  }
+  },
+  "name": "petshop",
+  "description": "<p align=\"center\"><a href=\"https://laravel.com\" target=\"_blank\"><img width=\"150\"src=\"https://laravel.com/laravel.png\"></a></p>",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campsodiego/petshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campsodiego/petshop/issues"
+  },
+  "homepage": "https://github.com/campsodiego/petshop#readme"
 }
